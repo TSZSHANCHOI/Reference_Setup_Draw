@@ -7,3 +7,4 @@ background(255);
 void draw(){
 fill(random(100,150));
 ellipse(mouseX,mouseY,60,60);
+}
